@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi, I'm Chaewoon Bae 👋
+
+I am a first-year Master’s student at KAIST, conducting research at the Data AI Lab under the supervision of Prof. Jaemin Yoo.
+Learn more about me on my [CV](https://chaewoonbae.github.io)
 
 <!--
 **chaewoonbae/chaewoonbae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
