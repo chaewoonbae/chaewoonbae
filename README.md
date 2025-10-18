@@ -1,1 +1,1 @@
-## Hi, I'm Chaewoon Bae 👋 Learn more about me on my [CV](https://chaewoonbae.github.io)
+## 👋 Hi, I'm Chaewoon Bae — advancing ML for graphs and beyond @ KAIST EE. See more on my [CV](https://chaewoonbae.github.io)
